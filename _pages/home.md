@@ -8,9 +8,9 @@ permalink: /
 
 At **Salience AI** we're working on the next generation of AI Agents.
 
-We want Agents you can program who do what their told, transparently think through problems, and know when they're uncertain or wrong. Reliably, diligently, deterministically.
+We want Agents you can program who do what they're told, transparently think through problems, and know when they're uncertain or wrong. Reliably, diligently, deterministically.
 
-And when they make mistakes, you can audit them to see exactly went wrong, and then fix the code that caused the problem.
+And when they make mistakes, you can audit them to see exactly what went wrong, and fix the code that caused the problem.
 
 We are working on general AIs that can:
 
