@@ -2,7 +2,7 @@ theme: minima
 minima:
   skin: dark
 title: Salience AI
-url: "https://salience.app"
+url: "https://salienceai.co"
 repoBaseUrl: https://github.com/salienceai/salience-website 
 plugins:
   - jekyll-sitemap
