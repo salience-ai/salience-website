@@ -2,6 +2,9 @@
 layout: default-app
 title: Salience AI
 permalink: /
+image:
+  path: /assets/image/salience-ai-icon.png
+  alt: Salience AI company logo
 ---
 
 # Instructable intelligence that scales.
