@@ -1,0 +1,29 @@
+theme: minima
+minima:
+  skin: dark
+title: Salience AI
+url: "https://salienceai.co"
+repoBaseUrl: https://github.com/salienceai/salience-website 
+plugins:
+  - jekyll-sitemap
+tagline: Instructable AI
+description: AI startup providing instructable AI agents.
+twitter:
+  username: salience_ai
+  card: summary
+social:
+  name: Salience AI
+  links:
+    - https://x.com/salience_ai
+    - https://github.com/salience-ai
+
+# Social media usernames for Minima footer
+twitter_username: salience_ai
+github_username: salience-ai
+
+# Configure pages collection
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
