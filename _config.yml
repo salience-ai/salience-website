@@ -6,8 +6,8 @@ url: "https://salienceai.co"
 repoBaseUrl: https://github.com/salienceai/salience-website
 plugins:
   - jekyll-sitemap
-tagline: Instructable AI
-description: AI startup providing instructable AI agents.
+tagline: Programmable AI
+description: AI startup providing programmable AI agents.
 twitter:
   username: salience_ai
   card: summary
