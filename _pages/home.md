@@ -7,11 +7,11 @@ image:
   alt: Salience AI company logo
 ---
 
-# Instructable intelligence that scales.
+# Programmable intelligence that scales.
 
 At **Salience AI** we're working on the next generation of AI Agents.
 
-We believe that AI Agents should be fully instructable and scalable, with transparent reasoning and outputs you can trust. 
+We believe that AI Agents should be fully programmable and scalable, with transparent reasoning and outputs you can trust. 
 
 We are building a new kind of Agent framework that enables granular control and auditability of Agent behaviors, along with hallucination mitigation and a developer experience that's easier than building apps today.
 
